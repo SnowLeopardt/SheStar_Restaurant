@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SheStar Restaurant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="shestar_restaurant">SheStar Restaurant</string>
+    <string name="hello_explore_your_dream_food" />
+    <string name="sing_in">Sing in</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="nombre">nombre</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Email">Email</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Resgistrate">Registrate</string>
+    <string name="Registrate">Registrate</string>
+    <string name="comida_diaria">comida diaria</string>
+    <string name="Comida_Diaria">Comida Diaria</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Favoritos">Favoritos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Mi_Carrito">Mi_Carrito</string>
+    <string name="MiCarrito">MiCarrito</string>
+    <string name="henrysanchez7920_gmail_com">HenrySanchez7920@gmail.com</string>
+</resources>
