@@ -13,6 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.ugb.shestarrestaurant.R;
 import com.ugb.shestarrestaurant.models.HomeVerModel;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import kotlin.jvm.internal.SpreadBuilder;
@@ -20,9 +21,9 @@ import kotlin.jvm.internal.SpreadBuilder;
 public class HomeVerAdapter extends RecyclerView.Adapter<HomeVerAdapter.ViewHolder> {
 
     Context context;
-    List<HomeVerModel> list;
+    ArrayList<HomeVerModel> list;
 
-    public HomeVerAdapter(Context context, List<HomeVerModel> list)  {
+    public HomeVerAdapter(Context context, ArrayList<HomeVerModel> list)  {
         this.context = context;
         this.list = list;
     }
