@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/nav_comidadiaria"
-        android:name="com.ugb.shestarrestaurant.ui.gallery.DailyMealFragment"
+        android:name="com.ugb.shestarrestaurant.ui.dailymeal.DailyMealFragment"
         android:label="@string/Comida_Diaria"
         tools:layout="@layout/dayli_meal_fragment" />
 
     <fragment
         android:id="@+id/nav_favoritos"
-        android:name="com.ugb.shestarrestaurant.ui.slideshow.FavouriteFragment"
+        android:name="com.ugb.shestarrestaurant.ui.favourite.FavouriteFragment"
         android:label="@string/Favoritos"
         tools:layout="@layout/fragment_favourite" />
     <fragment

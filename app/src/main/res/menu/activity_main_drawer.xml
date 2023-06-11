@@ -22,6 +22,12 @@
             android:icon="@drawable/ic_baseline_shopping_cart_24"
             android:title="@string/MiCarrito" />
 
+        <item
+            android:id="@+id/Ubicacion"
+            android:icon="@drawable/baseline_location_on_24"
+            android:title="@string/comer_en_el_restuarante" />
+
+
 
     </group>
 </menu>
